@@ -7,15 +7,46 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		27D2BD0F2B46AC9E00362903 /* PhotosCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27D2BD0D2B46AC9E00362903 /* PhotosCollectionViewCell.swift */; };
+		27D2BD102B46AC9E00362903 /* PhotosCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 27D2BD0E2B46AC9E00362903 /* PhotosCollectionViewCell.xib */; };
+		27D2BD132B46AD4400362903 /* PhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27D2BD122B46AD4400362903 /* PhotosViewController.swift */; };
+		27D2BD152B46DB7400362903 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27D2BD142B46DB7400362903 /* DetailsViewController.swift */; };
+		27D2BD1C2B47BF9C00362903 /* OptionsCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27D2BD1A2B47BF9C00362903 /* OptionsCollectionViewCell.swift */; };
+		27D2BD1D2B47BF9C00362903 /* OptionsCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 27D2BD1B2B47BF9C00362903 /* OptionsCollectionViewCell.xib */; };
+		27D2BD1F2B47C05100362903 /* OptionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27D2BD1E2B47C05100362903 /* OptionsViewController.swift */; };
+		27D2BD212B47D15600362903 /* ClinicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27D2BD202B47D15600362903 /* ClinicViewController.swift */; };
+		27D2BD242B47D17D00362903 /* ClinicCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27D2BD222B47D17D00362903 /* ClinicCollectionViewCell.swift */; };
+		27D2BD252B47D17D00362903 /* ClinicCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 27D2BD232B47D17D00362903 /* ClinicCollectionViewCell.xib */; };
+		27D2BD2A2B47D1AD00362903 /* DoctorCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27D2BD282B47D1AD00362903 /* DoctorCollectionViewCell.swift */; };
+		27D2BD2B2B47D1AD00362903 /* DoctorCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 27D2BD292B47D1AD00362903 /* DoctorCollectionViewCell.xib */; };
+		27D2BD2E2B48123F00362903 /* DoctorProfileCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27D2BD2C2B48123F00362903 /* DoctorProfileCollectionViewCell.swift */; };
+		27D2BD2F2B48123F00362903 /* DoctorProfileCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 27D2BD2D2B48123F00362903 /* DoctorProfileCollectionViewCell.xib */; };
+		27DC2F942B468D580058F5E3 /* CustomTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27DC2F932B468D580058F5E3 /* CustomTabBar.swift */; };
 		27FF0C3B2B466E5D006FF3C8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27FF0C3A2B466E5D006FF3C8 /* AppDelegate.swift */; };
 		27FF0C3D2B466E5D006FF3C8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27FF0C3C2B466E5D006FF3C8 /* SceneDelegate.swift */; };
 		27FF0C3F2B466E5D006FF3C8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27FF0C3E2B466E5D006FF3C8 /* ViewController.swift */; };
 		27FF0C422B466E5D006FF3C8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27FF0C402B466E5D006FF3C8 /* Main.storyboard */; };
 		27FF0C442B466E61006FF3C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27FF0C432B466E61006FF3C8 /* Assets.xcassets */; };
 		27FF0C472B466E61006FF3C8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27FF0C452B466E61006FF3C8 /* LaunchScreen.storyboard */; };
+		27FF0C502B467494006FF3C8 /* ItemData.json in Resources */ = {isa = PBXBuildFile; fileRef = 27FF0C4F2B467494006FF3C8 /* ItemData.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		27D2BD0D2B46AC9E00362903 /* PhotosCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosCollectionViewCell.swift; sourceTree = "<group>"; };
+		27D2BD0E2B46AC9E00362903 /* PhotosCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PhotosCollectionViewCell.xib; sourceTree = "<group>"; };
+		27D2BD122B46AD4400362903 /* PhotosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosViewController.swift; sourceTree = "<group>"; };
+		27D2BD142B46DB7400362903 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
+		27D2BD1A2B47BF9C00362903 /* OptionsCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionsCollectionViewCell.swift; sourceTree = "<group>"; };
+		27D2BD1B2B47BF9C00362903 /* OptionsCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = OptionsCollectionViewCell.xib; sourceTree = "<group>"; };
+		27D2BD1E2B47C05100362903 /* OptionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionsViewController.swift; sourceTree = "<group>"; };
+		27D2BD202B47D15600362903 /* ClinicViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClinicViewController.swift; sourceTree = "<group>"; };
+		27D2BD222B47D17D00362903 /* ClinicCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClinicCollectionViewCell.swift; sourceTree = "<group>"; };
+		27D2BD232B47D17D00362903 /* ClinicCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ClinicCollectionViewCell.xib; sourceTree = "<group>"; };
+		27D2BD282B47D1AD00362903 /* DoctorCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoctorCollectionViewCell.swift; sourceTree = "<group>"; };
+		27D2BD292B47D1AD00362903 /* DoctorCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DoctorCollectionViewCell.xib; sourceTree = "<group>"; };
+		27D2BD2C2B48123F00362903 /* DoctorProfileCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoctorProfileCollectionViewCell.swift; sourceTree = "<group>"; };
+		27D2BD2D2B48123F00362903 /* DoctorProfileCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DoctorProfileCollectionViewCell.xib; sourceTree = "<group>"; };
+		27DC2F932B468D580058F5E3 /* CustomTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBar.swift; sourceTree = "<group>"; };
 		27FF0C372B466E5D006FF3C8 /* MerchantApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MerchantApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		27FF0C3A2B466E5D006FF3C8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		27FF0C3C2B466E5D006FF3C8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +55,7 @@
 		27FF0C432B466E61006FF3C8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		27FF0C462B466E61006FF3C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		27FF0C482B466E61006FF3C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		27FF0C4F2B467494006FF3C8 /* ItemData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ItemData.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +69,36 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		27D2BD112B46AD1800362903 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				27FF0C3E2B466E5D006FF3C8 /* ViewController.swift */,
+				27D2BD122B46AD4400362903 /* PhotosViewController.swift */,
+				27D2BD142B46DB7400362903 /* DetailsViewController.swift */,
+				27D2BD1E2B47C05100362903 /* OptionsViewController.swift */,
+				27D2BD202B47D15600362903 /* ClinicViewController.swift */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		27DC2F922B468D460058F5E3 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				27DC2F932B468D580058F5E3 /* CustomTabBar.swift */,
+				27D2BD0D2B46AC9E00362903 /* PhotosCollectionViewCell.swift */,
+				27D2BD0E2B46AC9E00362903 /* PhotosCollectionViewCell.xib */,
+				27D2BD1A2B47BF9C00362903 /* OptionsCollectionViewCell.swift */,
+				27D2BD1B2B47BF9C00362903 /* OptionsCollectionViewCell.xib */,
+				27D2BD222B47D17D00362903 /* ClinicCollectionViewCell.swift */,
+				27D2BD232B47D17D00362903 /* ClinicCollectionViewCell.xib */,
+				27D2BD282B47D1AD00362903 /* DoctorCollectionViewCell.swift */,
+				27D2BD292B47D1AD00362903 /* DoctorCollectionViewCell.xib */,
+				27D2BD2C2B48123F00362903 /* DoctorProfileCollectionViewCell.swift */,
+				27D2BD2D2B48123F00362903 /* DoctorProfileCollectionViewCell.xib */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		27FF0C2E2B466E5D006FF3C8 = {
 			isa = PBXGroup;
 			children = (
@@ -56,15 +118,25 @@
 		27FF0C392B466E5D006FF3C8 /* MerchantApp */ = {
 			isa = PBXGroup;
 			children = (
+				27D2BD112B46AD1800362903 /* ViewController */,
+				27DC2F922B468D460058F5E3 /* View */,
+				27FF0C4E2B46744A006FF3C8 /* Data */,
 				27FF0C3A2B466E5D006FF3C8 /* AppDelegate.swift */,
 				27FF0C3C2B466E5D006FF3C8 /* SceneDelegate.swift */,
-				27FF0C3E2B466E5D006FF3C8 /* ViewController.swift */,
 				27FF0C402B466E5D006FF3C8 /* Main.storyboard */,
 				27FF0C432B466E61006FF3C8 /* Assets.xcassets */,
 				27FF0C452B466E61006FF3C8 /* LaunchScreen.storyboard */,
 				27FF0C482B466E61006FF3C8 /* Info.plist */,
 			);
 			path = MerchantApp;
+			sourceTree = "<group>";
+		};
+		27FF0C4E2B46744A006FF3C8 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				27FF0C4F2B467494006FF3C8 /* ItemData.json */,
+			);
+			path = Data;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,8 +198,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				27FF0C472B466E61006FF3C8 /* LaunchScreen.storyboard in Resources */,
+				27D2BD252B47D17D00362903 /* ClinicCollectionViewCell.xib in Resources */,
+				27D2BD102B46AC9E00362903 /* PhotosCollectionViewCell.xib in Resources */,
 				27FF0C442B466E61006FF3C8 /* Assets.xcassets in Resources */,
+				27FF0C502B467494006FF3C8 /* ItemData.json in Resources */,
 				27FF0C422B466E5D006FF3C8 /* Main.storyboard in Resources */,
+				27D2BD2F2B48123F00362903 /* DoctorProfileCollectionViewCell.xib in Resources */,
+				27D2BD1D2B47BF9C00362903 /* OptionsCollectionViewCell.xib in Resources */,
+				27D2BD2B2B47D1AD00362903 /* DoctorCollectionViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,9 +216,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				27DC2F942B468D580058F5E3 /* CustomTabBar.swift in Sources */,
+				27D2BD0F2B46AC9E00362903 /* PhotosCollectionViewCell.swift in Sources */,
+				27D2BD242B47D17D00362903 /* ClinicCollectionViewCell.swift in Sources */,
+				27D2BD212B47D15600362903 /* ClinicViewController.swift in Sources */,
+				27D2BD2E2B48123F00362903 /* DoctorProfileCollectionViewCell.swift in Sources */,
 				27FF0C3F2B466E5D006FF3C8 /* ViewController.swift in Sources */,
+				27D2BD1F2B47C05100362903 /* OptionsViewController.swift in Sources */,
+				27D2BD132B46AD4400362903 /* PhotosViewController.swift in Sources */,
+				27D2BD152B46DB7400362903 /* DetailsViewController.swift in Sources */,
+				27D2BD1C2B47BF9C00362903 /* OptionsCollectionViewCell.swift in Sources */,
 				27FF0C3B2B466E5D006FF3C8 /* AppDelegate.swift in Sources */,
 				27FF0C3D2B466E5D006FF3C8 /* SceneDelegate.swift in Sources */,
+				27D2BD2A2B47D1AD00362903 /* DoctorCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,13 +380,17 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = PEPEHLK578;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MerchantApp/Info.plist;
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "$(MARKETING_VERSION)";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "This app requires access to the photo library";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -319,13 +411,17 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = PEPEHLK578;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MerchantApp/Info.plist;
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "$(MARKETING_VERSION)";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "This app requires access to the photo library";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
